@@ -1,0 +1,24 @@
+{
+  "data_list": [
+    {
+      "question": "What is the minimum age for Facebook, Instagram, Twitter and Snapchat?",
+      "answers": ["13", "14", "16", "Any age"]
+    },
+    {
+      "question": "How long can pictures last for once posted?",
+      "answers": ["Forever", "A week", "A year"]
+    },
+    {
+      "question": "How quickly can pictures spread once they have appeared online?",
+      "answers": ["Immediately", "Within days", "A week", "They can't"]
+    },
+    {
+      "question": "If you received an email/message that makes you feel uncomfortable, what should you do?",
+      "answers": ["Tell an adult that you trust", "Keep it to yourself", "Shut down the account"]
+    },
+    {
+      "question": "Should you make sure that all your passwords are the same so that they are easy to remember?",
+      "answers": ["No, it is too easy for someone to access all of my accounts", "Yes, that way you don't have to remember lots of passwords", "You can use the same passwords for accounts that are not to do with money"]
+    }
+  ]
+}
